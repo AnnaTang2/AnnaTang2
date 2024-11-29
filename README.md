@@ -7,4 +7,5 @@ Studied law at the University of Buea, cameroon and Immsersive technonologies at
 - 🌱 Currently learning about data analytics and [datavizl (https://pudding-cool/2018/08/pockets/!<br/>
 - 😄 Pronouns: She/Her...
 - ⚡ Fun fact: i am a foodie...
--->
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats ->
+I! Tang’s github statsl (https://github-readme-stats.vercel.app/api?username=AnnaTang2_private=true&show icons=true&theme=radical&hide rank=false)l (https://github.com/anuraghazra/github-readme-stats)
